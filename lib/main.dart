@@ -6,10 +6,10 @@ import 'dart:convert';
 import 'widgets/widgets.dart';
 import 'common/common.dart';
 
-final _envId = 'huangtao-4ghjf9gi85523bb2'; //开发环境ID
-final _appAccesskey = '0d320aed74bc9a675a22fb492106cfc4'; //登录应用授权号
-final _function = 'wxtbp'; //云开发环境被调用的云函数，因为flutter没办法直接调用回话机器人，所有通过云函数中转
-final _botId = '152d9b18-7e5e-41f3-9296-4a4534d87705'; //对话机器人ID
+final _envId = 'xxx'; //开发环境ID
+final _appAccesskey = 'xxx'; //登录应用授权号
+final _function = 'xxx'; //云开发环境被调用的云函数，因为flutter没办法直接调用回话机器人，所有通过云函数中转
+final _botId = 'xxx'; //对话机器人ID
 
 void main() {
   runApp(MaterialApp(home: MyApp()));
