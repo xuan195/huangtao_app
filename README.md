@@ -2,7 +2,7 @@
 Flutter作为前端，对话方式调用腾讯云函数以及腾讯智能对话平台，实现简单的消息即服务仓储应用
 服务。
 
-演示的安装文件在目录：huangtao_app\test下的app-debug.apk
+演示的安装文件在目录：huangtao_app\test下的app-release.apk
 
 登录场景
 人：用户登录
